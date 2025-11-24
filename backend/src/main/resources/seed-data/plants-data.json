@@ -1,0 +1,195 @@
+{
+  "plantGroups": [
+    {
+      "id": "succulents",
+      "name": "Succulents & Cacti",
+      "imageFilename": "succulents-group.jpg"
+    },
+    {
+      "id": "tropical",
+      "name": "Tropical Plants",
+      "imageFilename": "tropical-group.jpg"
+    },
+    {
+      "id": "flowering",
+      "name": "Flowering Plants",
+      "imageFilename": "flowering-group.jpg"
+    },
+    {
+      "id": "ferns",
+      "name": "Ferns",
+      "imageFilename": "ferns-group.jpg"
+    },
+    {
+      "id": "airplants",
+      "name": "Air Plants",
+      "imageFilename": "airplants-group.jpg"
+    },
+    {
+      "id": "herbs",
+      "name": "Herbs",
+      "imageFilename": "herbs-group.jpg"
+    }
+  ],
+  "plants": [
+    {
+      "id": "aloe-vera",
+      "groupId": "succulents",
+      "name": "Aloe Vera",
+      "scientificName": "Aloe barbadensis miller",
+      "thumbnailFilename": "aloe-vera-thumb.jpg",
+      "imageFilenames": [
+        "aloe-detail-1.jpg",
+        "aloe-detail-2.jpg",
+        "aloe-detail-3.jpg"
+      ],
+      "description": "Aloe Vera is a succulent plant species known for its medicinal properties and easy care requirements. Its thick, fleshy leaves contain a clear gel that has been used for centuries in traditional medicine and skincare. This versatile plant is perfect for beginners and experienced plant enthusiasts alike.",
+      "size": "Mature plants reach 12-24 inches (30-60 cm) in height and width. Growth is relatively slow, making it suitable for various spaces.",
+      "toxicity": "Mildly toxic to pets and humans if ingested. The latex layer between the skin and gel can cause digestive upset. Keep out of reach of children and pets. The topical gel is safe for external use.",
+      "benefits": [
+        "Air purifying - removes toxins from indoor air",
+        "Medicinal gel for minor burns, cuts, and skin irritations",
+        "Low maintenance and drought tolerant",
+        "Produces oxygen at night, making it great for bedrooms",
+        "Easy to propagate and share with friends"
+      ],
+      "care": {
+        "watering": "Water deeply but infrequently. Allow the soil to dry completely between waterings, typically every 2-3 weeks. Reduce watering in winter to once a month. Overwatering is the most common cause of problems.",
+        "light": "Bright, indirect sunlight is ideal. Can tolerate some direct morning sun but avoid harsh afternoon rays which can scorch the leaves. Place near a south or west-facing window for best results.",
+        "temperature": "Thrives in temperatures between 55-80°F (13-27°C). Can tolerate brief drops to 40°F (4°C) but protect from frost. Prefers consistent temperatures without sudden fluctuations.",
+        "humidity": "Prefers low to moderate humidity (40-50%). This drought-tolerant plant adapts well to typical indoor humidity levels. No misting required.",
+        "soil": "Well-draining cactus or succulent mix is essential. You can create your own by mixing regular potting soil with coarse sand or perlite in a 2:1 ratio. Good drainage prevents root rot.",
+        "fertilizing": "Feed sparingly with a diluted succulent fertilizer once in spring and once in summer. Use half the recommended strength. Avoid fertilizing in fall and winter when growth slows."
+      },
+      "commonIssues": [
+        {
+          "issue": "Brown or soft leaves",
+          "solution": "This indicates overwatering. Reduce watering frequency and ensure proper drainage. Remove any rotted leaves and let the soil dry completely."
+        },
+        {
+          "issue": "Pale or yellowing leaves",
+          "solution": "Usually caused by too much direct sunlight. Move to a location with bright, indirect light. The plant may also need more water if the soil is bone dry."
+        },
+        {
+          "issue": "Thin, elongated leaves",
+          "solution": "Sign of insufficient light. Move the plant to a brighter location. The leaves are stretching toward the light source."
+        },
+        {
+          "issue": "Leaves turning brown at tips",
+          "solution": "Can be caused by fluoride in tap water or over-fertilization. Use filtered water and reduce fertilizer application. Trim brown tips with clean scissors."
+        }
+      ]
+    },
+    {
+      "id": "echeveria",
+      "groupId": "succulents",
+      "name": "Echeveria",
+      "scientificName": "Echeveria spp.",
+      "thumbnailFilename": "echeveria-thumb.jpg",
+      "imageFilenames": [
+        "echeveria-thumb.jpg"
+      ],
+      "description": "Echeveria is a stunning rosette-forming succulent with beautiful symmetrical leaves that come in various colors from blue-green to purple. These drought-tolerant plants are perfect for sunny windowsills and require minimal care.",
+      "size": "Typically 3-8 inches (8-20 cm) in diameter, forming compact rosettes.",
+      "toxicity": "Non-toxic to pets and humans.",
+      "benefits": [
+        "Stunning ornamental appearance",
+        "Very low maintenance",
+        "Propagates easily from leaves",
+        "Compact size perfect for small spaces"
+      ],
+      "care": {
+        "watering": "Water when the soil is completely dry, typically every 1-2 weeks during growing season. Avoid getting water on the leaves to prevent rot.",
+        "light": "Bright, direct sunlight for 4-6 hours daily. Morning sun is best. Insufficient light causes stretching and loss of compact form.",
+        "temperature": "Prefers 65-80°F (18-27°C). Can tolerate brief cold snaps to 40°F (4°C) but protect from frost.",
+        "humidity": "Thrives in low humidity. Does not require misting. Avoid high humidity which can lead to fungal issues.",
+        "soil": "Well-draining cactus mix with added perlite or pumice. Ensure excellent drainage to prevent root rot.",
+        "fertilizing": "Feed monthly during spring and summer with diluted succulent fertilizer at quarter strength. Do not fertilize in winter."
+      },
+      "commonIssues": [
+        {
+          "issue": "Leaves dropping off",
+          "solution": "Usually from overwatering. Allow soil to dry completely and reduce watering frequency."
+        },
+        {
+          "issue": "Stretched, elongated growth",
+          "solution": "Insufficient light. Move to a brighter location with more direct sun."
+        }
+      ]
+    },
+    {
+      "id": "jade-plant",
+      "groupId": "succulents",
+      "name": "Jade Plant",
+      "scientificName": "Crassula ovata",
+      "thumbnailFilename": "jade-thumb.jpg",
+      "imageFilenames": [
+        "jade-thumb.jpg"
+      ],
+      "description": "The Jade Plant is a popular succulent with thick, woody stems and oval-shaped leaves. Often called the 'money tree' or 'lucky plant', it's believed to bring good fortune and prosperity. With proper care, jade plants can live for decades.",
+      "size": "Can grow 3-6 feet (1-2 m) tall indoors with age. Growth is slow but steady.",
+      "toxicity": "Toxic to cats and dogs if ingested. Keep out of reach of pets.",
+      "benefits": [
+        "Long-lived plant that can become a family heirloom",
+        "Symbolic of good luck and prosperity",
+        "Easy to shape and maintain as a miniature tree",
+        "Tolerates some neglect"
+      ],
+      "care": {
+        "watering": "Water when top 1-2 inches of soil are dry, about every 2-3 weeks. Reduce to monthly in winter. Overwatering causes root rot.",
+        "light": "Bright light with at least 4 hours of direct sunlight daily. South-facing windows are ideal. Can adapt to medium light but growth will be slower.",
+        "temperature": "Comfortable in 65-75°F (18-24°C). Can tolerate down to 50°F (10°C) but keep away from cold drafts.",
+        "humidity": "Prefers average to low humidity (30-50%). No special humidity requirements.",
+        "soil": "Well-draining succulent or cactus mix. Add extra perlite for improved drainage. Avoid water-retentive soils.",
+        "fertilizing": "Feed every 2-3 months during growing season with balanced liquid fertilizer at half strength. Do not fertilize in winter."
+      },
+      "commonIssues": [
+        {
+          "issue": "Leaves falling off",
+          "solution": "Can be caused by over or underwatering. Check soil moisture and adjust watering schedule accordingly."
+        },
+        {
+          "issue": "Wrinkled leaves",
+          "solution": "Sign of underwatering. Give the plant a thorough watering and increase frequency slightly."
+        }
+      ]
+    },
+    {
+      "id": "snake-plant",
+      "groupId": "succulents",
+      "name": "Snake Plant",
+      "scientificName": "Sansevieria trifasciata",
+      "thumbnailFilename": "snake-thumb.jpg",
+      "imageFilenames": [
+        "snake-thumb.jpg"
+      ],
+      "description": "The Snake Plant, also known as Mother-in-Law's Tongue, is one of the most tolerant and low-maintenance houseplants. Its striking upright leaves with distinctive banding make it a popular choice for modern interiors.",
+      "size": "Can grow 2-4 feet (60-120 cm) tall. Some varieties reach 6 feet.",
+      "toxicity": "Mildly toxic to pets if ingested. Can cause nausea and vomiting.",
+      "benefits": [
+        "One of the best air-purifying plants",
+        "Extremely low maintenance",
+        "Tolerates neglect and low light",
+        "Produces oxygen at night"
+      ],
+      "care": {
+        "watering": "Water sparingly every 2-4 weeks. Allow soil to dry completely between waterings. In winter, water only once a month or less.",
+        "light": "Adaptable to various light conditions from low to bright indirect light. Can tolerate some direct sun but prefers indirect.",
+        "temperature": "Thrives in 60-85°F (15-29°C). Can tolerate temperature fluctuations well. Keep away from cold drafts.",
+        "humidity": "Tolerates dry air exceptionally well. No humidity requirements. Perfect for air-conditioned spaces.",
+        "soil": "Well-draining potting mix or cactus soil. Prefers to be slightly root-bound.",
+        "fertilizing": "Feed once in spring and once in summer with diluted all-purpose fertilizer. Can thrive without fertilizer."
+      },
+      "commonIssues": [
+        {
+          "issue": "Rotting at base",
+          "solution": "Caused by overwatering. Remove affected leaves, let soil dry completely, and reduce watering."
+        },
+        {
+          "issue": "Brown leaf tips",
+          "solution": "Usually from inconsistent watering or fluoride in water. Use filtered water and maintain consistent care."
+        }
+      ]
+    }
+  ]
+}
